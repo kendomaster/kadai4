@@ -23,6 +23,7 @@ h1 {
 
 /* Styling for unordered lists */
 h2 {
+    color: #fff;
     padding: 0;
     list-style-type: none; /* Remove default list style */
     background-color: #4CAF50; /* Green background */
