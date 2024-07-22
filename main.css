@@ -109,6 +109,7 @@ li {
  text-align: left;
 }
 #yen{
-    font-size: 100p;
+    font-size: 100px;
+    line-height: 45px;
    
 }
