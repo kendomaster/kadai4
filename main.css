@@ -108,6 +108,7 @@ li {
  height: 500;
  text-align: left;
 }
-.yen{
-   font-size: 100px;
+#yen{
+    font-size: 100p;
+   
 }
